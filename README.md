@@ -9,4 +9,5 @@ This is from Adham....
 4. Install git on Rasberry Pi
 5. Checkout your repository from github onto RasberryPi
 6. Checkin your first program helloworld.py
+7. install teamveiwer
 
